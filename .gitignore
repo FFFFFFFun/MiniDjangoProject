@@ -1,0 +1,23 @@
+# 环境密钥
+.env
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django数据库
+db.sqlite3
+db.sqlite3-journal
+
+# 日志文件
+*.log
+
+# 虚拟环境
+venv/
+env/
+
+# IDE配置
+.vscode/
+.idea/

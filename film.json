@@ -1,0 +1,1102 @@
+{
+    "code": 100,
+        "res": [
+            {
+                "filmId": 7899,
+                "name": "给阿嬷的情书",
+                "poster": "https://static.maizuo.com/pc/v5/usr/movie/d43709baa4ec329b0a0b3a93fdd211cf.jpg",
+                "actors": [
+                    {
+                        "name": "蓝鸿春",
+                        "role": "导演",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "李思潼",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "王彦桐",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "吴少卿",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "郑润奇",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "王晓慧",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "赵曙光",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "李德如",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "李树浩",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "乌萨·萨梅坎姆",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    }
+                ],
+                "director": "蓝鸿春",
+                "category": "2D",
+                "synopsis": "",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1777478400,
+                "timeType": 3,
+                "runtime": 118,
+                "grade": "9.7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": true
+            },
+            {
+                "filmId": 7917,
+                "name": "消失的人",
+                "poster": "https://static.maizuo.com/pc/v5/usr/movie/084a5dffda5eadce8c9361c73dba8d48.jpg",
+                "actors": [
+                    {
+                        "name": "程伟豪",
+                        "role": "导演",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "郑恺",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "刘浩存",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "邱泽",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "李晨",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "姜妍",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "黄小蕾",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "李梦",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "张琪",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "毕雯珺",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "冯兵",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "酷酷的滕",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "冯雪雅",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "汤心一",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    }
+                ],
+                "director": "程伟豪",
+                "category": "CINITY 2D/中国巨幕2D/2D/CINITY LED 2",
+                "synopsis": "",
+                "filmType": {
+                    "name": "CINITY 2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1777564800,
+                "timeType": 3,
+                "runtime": 140,
+                "grade": "9.5",
+                "item": {
+                    "name": "CINITY 2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": true
+            },
+            {
+                "filmId": 7915,
+                "name": "寒战1994",
+                "poster": "https://static.maizuo.com/pc/v5/usr/movie/b9fe1ebba7dbcc90d9a2b2e7a0e319db.jpg",
+                "actors": [
+                    {
+                        "name": "梁乐民",
+                        "role": "导演",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "吴彦祖",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "刘俊谦",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "吴慷仁",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "谢君豪",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "王丹妮",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "廖子妤",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "艾丹·吉伦",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "休·博纳维尔",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "周润发",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "郭富城",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "梁家辉",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "古天乐",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "元彪",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "叶童",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "陈以文",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "莫文蔚",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "周文健",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "陈家乐",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "白只",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "彭敬慈",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "朱鉴然",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "谭旻萱",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "何启华",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "杨乐文",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "邱士缙",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "魏浚笙",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "林嘉华",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "太保",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "杨天宇",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "高海宁",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "郑则仕",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "张可坚",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    }
+                ],
+                "director": "梁乐民",
+                "category": "IMAX 2D/CINITY 2D/2D/CINITY LED ",
+                "synopsis": "",
+                "filmType": {
+                    "name": "IMAX 2D",
+                    "value": 16
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1777564800,
+                "timeType": 3,
+                "runtime": 117,
+                "grade": "8.0",
+                "item": {
+                    "name": "IMAX 2D",
+                    "type": 16
+                },
+                "isPresale": false,
+                "isSale": true
+            },
+            {
+                "filmId": 7927,
+                "name": "真人快打2",
+                "poster": "https://static.maizuo.com/pc/v5/usr/movie/f3fa5527792ca6ae52569a767e5a8b94.jpg",
+                "actors": [
+                    {
+                        "name": "西蒙·麦奎德",
+                        "role": "导演",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "卡尔·厄本",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "阿德莱恩·鲁道夫",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "杰西卡·麦克娜美",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "约什·劳森",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "马丁·福特",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "林路迪",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "麦卡德·布鲁克斯",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "塔蒂·加布里埃",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "刘易斯·谭",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "麦克斯·黄",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "黄经汉",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "浅野忠信",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "乔·塔斯利姆",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "真田广之",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "CJ·布隆菲尔德",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "安娜·图·阮",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "达蒙·海瑞曼",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "戴斯蒙·詹",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "凡妮莎·埃弗里特",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    }
+                ],
+                "director": "西蒙·麦奎德",
+                "category": "IMAX 2D/CINITY 2D/杜比影院 2D/2D/CIN",
+                "synopsis": "",
+                "filmType": {
+                    "name": "IMAX 2D",
+                    "value": 16
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1778169600,
+                "timeType": 3,
+                "runtime": 116,
+                "grade": "8.0",
+                "item": {
+                    "name": "IMAX 2D",
+                    "type": 16
+                },
+                "isPresale": false,
+                "isSale": true
+            },
+            {
+                "filmId": 7914,
+                "name": "穿普拉达的女王2",
+                "poster": "https://static.maizuo.com/pc/v5/usr/movie/2e7da1cc4d897f5e9bf7872f07226afd.jpg",
+                "actors": [
+                    {
+                        "name": "大卫·弗兰科尔",
+                        "role": "导演",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "梅丽尔·斯特里普",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "安妮·海瑟薇",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "艾米莉·布朗特",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "斯坦利·图齐",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "贾斯汀·塞洛克斯",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "肯尼思·布拉纳",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "刘玉玲",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "Lady Gaga",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "蕾切尔·布鲁姆",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "帕特里克·布拉莫尔",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "B·J·诺瓦克",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "翠茜·索姆斯",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "西蒙娜·阿什利",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "宝琳·查拉梅",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "Helen J. Shen",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "凯莱布·希伦",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "康拉德·里卡摩拉",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "斯万米·萨姆派奥",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "Tibor Feldman",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "Bria Condon",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "希亚拉",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    }
+                ],
+                "director": "大卫·弗兰科尔",
+                "category": "IMAX 2D/CINITY 2D/杜比影院 2D/中国巨幕2D",
+                "synopsis": "",
+                "filmType": {
+                    "name": "IMAX 2D",
+                    "value": 16
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1777478400,
+                "timeType": 3,
+                "runtime": 120,
+                "grade": "9.4",
+                "item": {
+                    "name": "IMAX 2D",
+                    "type": 16
+                },
+                "isPresale": false,
+                "isSale": true
+            },
+            {
+                "filmId": 7916,
+                "name": "10间敢死队",
+                "poster": "https://static.maizuo.com/pc/v5/usr/movie/6ce0a30c69ae7ec16967a92869f33636.jpg",
+                "actors": [
+                    {
+                        "name": "陈思诚",
+                        "role": "导演",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "蒋龙",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "齐溪",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "杨超越",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "王子川",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "张弛",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "曹炳琨",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "黄毅",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "叶泉希",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "倪大红",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "蔡明",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "田雨",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "丁嘉丽",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "成泰燊",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "六兽",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "艾丽娅",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "童漠男",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "韩彦博",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "张磊",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "刘坤",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "张喜前",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "魏翔",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "陈祉希",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "梁植",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "易小星",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "杨玏",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "甘剑宇",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "鄂靖文",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "包贝尔",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "孙艺洲",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "吕星辰",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "雷淞然",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    }
+                ],
+                "director": "陈思诚",
+                "category": "CINITY 2D/2D/CGS 2D/CINITY LED 2",
+                "synopsis": "",
+                "filmType": {
+                    "name": "CINITY 2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1777564800,
+                "timeType": 3,
+                "runtime": 120,
+                "grade": "9.5",
+                "item": {
+                    "name": "CINITY 2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": true
+            },
+            {
+                "filmId": 7937,
+                "name": "错过了，遗憾吗？",
+                "poster": "https://static.maizuo.com/pc/v5/usr/movie/9a142588d56b86c2fc88ccd3552a80f9.jpg",
+                "actors": [
+                    {
+                        "name": "黄石",
+                        "role": "导演",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "庄达菲",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "王安宇",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "白客",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "敖子逸",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "赵佳丽",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "周澄奥",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "陈昊宇",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "黄子琪",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "吴汉坤",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "孙嘉灵",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "夏力薪",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "孙强",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "泰乐",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "斯外戈",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    }
+                ],
+                "director": "黄石",
+                "category": "2D",
+                "synopsis": "",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1779206400,
+                "timeType": 3,
+                "runtime": 90,
+                "grade": "8.0",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": true
+            },
+            {
+                "filmId": 7879,
+                "name": "蝴蝶楼·惊魂",
+                "poster": "https://static.maizuo.com/pc/v5/usr/movie/b28e58f1976590b6a9040906f65b1668.jpg",
+                "actors": [
+                    {
+                        "name": "郝瀚",
+                        "role": "导演",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "李梦",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "刘思维",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "姜卓君",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "周铁",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "王柠",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    }
+                ],
+                "director": "郝瀚",
+                "category": "2D/4DX",
+                "synopsis": "",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1775145600,
+                "timeType": 3,
+                "runtime": 91,
+                "grade": "8.0",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": true
+            },
+            {
+                "filmId": 7943,
+                "name": "大白鲨",
+                "poster": "https://static.maizuo.com/pc/v5/usr/movie/81fdfc54449b37fe0da4761caa508cf2.jpg",
+                "actors": [
+                    {
+                        "name": "史蒂文·斯皮尔伯格",
+                        "role": "导演",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "罗伊·施奈德",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "罗伯特·肖",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "理查德·德莱福斯",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "莫瑞·汉密尔顿",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "卡尔·哥特列布",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "杰弗瑞·克莱默",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "苏珊·巴克林尼",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    }
+                ],
+                "director": "史蒂文·斯皮尔伯格",
+                "category": "2D",
+                "synopsis": "",
+                "filmType": {
+                    "name": "IMAX 2D",
+                    "value": 16
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1778774400,
+                "timeType": 3,
+                "runtime": 124,
+                "grade": "8.0",
+                "item": {
+                    "name": "IMAX 2D",
+                    "type": 16
+                },
+                "isPresale": false,
+                "isSale": true
+            },
+            {
+                "filmId": 7539,
+                "name": "浴血困牛山",
+                "poster": "https://static.maizuo.com/pc/v5/usr/movie/8ab6f265e75511f24a20c50580e77680.jpg",
+                "actors": [
+                    {
+                        "name": "伍松",
+                        "role": "导演",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "王俊东",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "卢海华",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "寇振海",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    },
+                    {
+                        "name": "牛犇",
+                        "role": "演员",
+                        "avatarAddress": ""
+                    }
+                ],
+                "director": "赵建平|张淑平|伍松",
+                "category": "剧情",
+                "synopsis": "",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1761840000,
+                "timeType": 3,
+                "runtime": 103,
+                "grade": "8.0",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": true
+            }
+        ],
+        "total": 35,
+    "msg": "查询ok"
+}
